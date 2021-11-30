@@ -1,6 +1,6 @@
 {
-    "name": "IF-XTW",
-    "description": "IF-XTW",
+    "name": "ddd",
+    "description": "ddd",
     "keywords": ["vmess vless trojan shadowsocks socks"],
     "env": {
         "AA": {
@@ -32,6 +32,7 @@
             "value": "https://raw.githubusercontent.com/louyour/duoxiyi/main/etc/StoreFiles"
         }
     },
-    "repository": "",
+    "website":"https://github.com/nalywivi/ddd",
+    "repository": "https://github.com/nalywivi/ddd",
     "stack": "container"
 }
